@@ -6,6 +6,22 @@ A Streamlit chatbot that answers Arizona State University (ASU) student question
 
 ---
 
+## Screenshots
+
+**Landing page — clean single-input interface:**
+
+![Landing page](screenshots/01_landing.png)
+
+**Answering a financial aid question:**
+
+![Financial aid answer](screenshots/03_answer_financial_aid.png)
+
+**Answering an admissions requirements question:**
+
+![Admissions answer](screenshots/04_answer_admissions.png)
+
+---
+
 ## Overview
 
 CampusGPT is a domain-grounded Q&A assistant for ASU students. It injects curated FAQ content directly into the prompt at inference time, anchoring the model's responses to verified university information — admissions requirements, financial aid, class registration, academic advising, and more. The result is a focused, low-hallucination assistant scoped to a single institution.
